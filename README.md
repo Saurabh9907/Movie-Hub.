@@ -26,11 +26,11 @@ Movie-Hub is a responsive movie search web application built using HTML, CSS, an
 
 ## 🔗 Live Demo
 
-https://your-netlify-link.netlify.app
+https://dapper-movie-hub.netlify.app/
 
 ## 💻 GitHub Repository
 
-https://github.com/yourusername/Movie-Hub.
+https://github.com/Saurabh9907/Movie-Hub..git
 
 ## 📂 Project Structure
 
@@ -48,7 +48,7 @@ MovieCorn/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Movie-Hub..git
+git clone https://github.com/Saurabh9907/Movie-Hub..git
 ```
 
 2. Open the project folder.
@@ -59,7 +59,7 @@ git clone https://github.com/yourusername/Movie-Hub..git
 
 OMDb API
 
-https://www.omdbapi.com/
+https://www.omdbapi.com/?i=${movie.dataset.id}&apikey=31232d3c
 
 ## 👨‍💻 Author
 
